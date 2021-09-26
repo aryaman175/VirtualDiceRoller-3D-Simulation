@@ -55,7 +55,7 @@ let pl2 ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8wCPhWj7Y6M4k
 let pl3 ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTb9FlufUMEFcvX3EdLep1sZ0WCu2mmGFyzig&usqp=CAU"
 let pl4 ="https://www.gannett-cdn.com/-mm-/e81d3c7ded89cd158e75c9d998eb27bc9d9806fd/c=0-162-3600-2187/local/-/media/2020/03/26/USATODAY/usatsports/shopping-cart-in-grocery-store.jpg"
 let pl5 ="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVEQ7ry02B6thiI3EPW6kZRxeF5Aw4kQT3zQ&usqp=CAU"
-let pl6 ="https://cpimg.tistatic.com/05411347/b/4/Kids-Outdoor-Merry-Go-Round.jpg"
+let pl6 ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png"
 
 // old park https://static.vecteezy.com/system/resources/previews/000/296/114/non_2x/vector-long-outdoor-park-scene.jpg
 
